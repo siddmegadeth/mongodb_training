@@ -1,0 +1,43 @@
+.branding {
+    color: #0d6efd;
+    font-size: xx-large;
+    font-family: fantasy;
+}
+
+
+
+.merchants {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+    color: white !important;
+}
+
+
+.nav-link {
+    color: #212529;
+}
+
+
+a.nav-link.active {
+    color: #0d6efd;
+    font-weight: bold;
+}
+
+
+.highlight {
+    color: #fff;
+    /*     border-bottom: 4px solid #1acc8d; */
+}
+
+.highlight-space {
+    margin-bottom: 2px !important;
+}
+
+header#header {
+    background: rgb(25 28 169) !important;
+}
+
+div#page-container {
+    margin-top: 80px !important;
+    margin-bottom: 20px !important;
+}
