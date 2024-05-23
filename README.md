@@ -26,7 +26,7 @@ If dotenv error occurs . then add below in cmd
 ```bash
   npm install --save dotenv
 ```
-Perform above steps 
+Perform above steps. Add all value inside  ```.env``` file. Keys are defined in the file
 
 
 # API
